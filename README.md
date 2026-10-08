@@ -1,5 +1,6 @@
 # ✨ Awesome CrewAI ✨
 
+
 > A curated collection of open-source projects built by the amazing CrewAI community.  
 > Discover ideas to help you unlock the full potential of AI Agents using CrewAI.
 
@@ -57,8 +58,10 @@ We welcome contributions from the CrewAI community! If you've built an open-sour
 | Title                          | Description                               | Author                                   |
 |---------------------------------------|---------------------------------------|-----------------------------------------------|
 |         [CrewAI + GMail + Coinbase + Stripe Integration](https://github.com/dexhorthy/mailcrew/tree/main)                  |     Mailcrew is a language model agent that performs various tasks over email, including interacting with Stripe and Coinbase APIs.   | [@dexhorthy](https://github.com/dexhorthy)                              |
-|          [CrewAI + OpenCommerce Integration](https://github.com/OpenCommerce-xyz/CrewAI_OpenCommerce_example)          |   Integration toolkit for enabling AI agents to make automated payments and access paid services using USDC. Load your agents with stablecoins and your entire CrewAI agents will be able to make payments and access paid services.   | [@Idan-Levin](https://github.com/Idan-Levin)         |
+|          [CrewAI + OpenCommerce Integration](https://github.com/OpenCommerce-xyz/CrewAI_OpenCommerce_example)          |   Integration toolkit for enabling AI agents to make automated payments and access paid services using USDC. Load your 
+agents with stablecoins and your entire CrewAI agents will be able to make payments and access paid services.   | [@Idan-Levin](https://github.com/Idan-Levin)         |
 
+|          [TrollBridge](https://github.com/eric-tijerina/trollbridge-mcp)          |   Pay-per-call intel APIs for AI agents — 100 x402-tolled lanes + MCP server.   | [@eric-tijerina](https://github.com/eric-tijerina)         |
 ---
 ### Tutorials
 | Title                          | Description                               | Author                                   |
